@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF6700</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="background_app">#121212</color>
+    <color name="surface_app">#1E1E1E</color>
+    <color name="on_surface">#E1E1E1</color>
+    <color name="grey_border">#3C4043</color>
+    <color name="grey_text">#9AA0A6</color>
+    <color name="grey_light">#202124</color>
+</resources>
