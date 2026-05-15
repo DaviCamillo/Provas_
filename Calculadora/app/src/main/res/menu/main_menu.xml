@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_bhaskara"
+        android:title="Fórmula de Bháskara"
+        android:icon="@android:drawable/ic_menu_edit" />
+    <item
+        android:id="@+id/menu_history"
+        android:title="Histórico de Cálculos"
+        android:icon="@android:drawable/ic_menu_recent_history" />
+</menu>

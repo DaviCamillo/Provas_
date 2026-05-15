@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Zodiaco</string>
+    <string name="title">Portal do Zodíaco</string>
+    <string name="subtitle">Descubra seu signo e seu destino cósmico.</string>
+    <string name="hint_name">Nome Completo</string>
+    <string name="hint_birth_date">Data de Nasc. (DD/MM/AAAA)</string>
+    <string name="hint_birth_time">Hora (HH:MM)</string>
+    <string name="hint_birth_place">Local de Nascimento</string>
+    <string name="btn_calculate">Revelar meu Destino</string>
+    <string name="btn_back">Voltar ao Início</string>
+    <string name="result_title">Seu Mapa Astral</string>
+    <string name="error_fill_fields">Por favor, preencha nome e data de nascimento.</string>
+    <string name="error_invalid_date">Formato de data inválido. Use DD/MM/AAAA</string>
+    <string name="error_name_empty">Por favor, digite seu nome</string>
+    <string name="error_date_empty">Selecione sua data de nascimento</string>
+    <string name="error_time_empty">Selecione sua hora de nascimento</string>
+    <string name="element_label">Elemento: %1$s</string>
+    <string name="result_greeting">✨ Saudações, %1$s! ✨</string>
+    <string name="result_birth_place">Nascido em: %1$s</string>
+    <string name="result_chinese">🐉 Signo Chinês: %1$s</string>
+    <string name="result_ascendant">🌅 Ascendente: %1$s</string>
+    <string name="result_lucky_number">🔢 Número da Sorte: %1$d</string>
+    <string name="result_numerology">📜 Numerologia: %1$d</string>
+    <string name="result_luck_header">\n🍀 Sua Sorte:\n</string>
+    <string name="sync_astral">Sincronização Astral</string>
+
+    <string-array name="daily_lucks">
+        <item>O universo reserva uma grande surpresa financeira para você hoje.</item>
+        <item>Confie nos seus instintos, eles o levarão à resposta que procura.</item>
+        <item>Um encontro inesperado trará luz a um antigo problema.</item>
+        <item>Hoje é um dia perfeito para focar em si mesmo e renovar as energias.</item>
+        <item>Sua criatividade está no auge, aproveite para criar algo novo.</item>
+        <item>A harmonia está ao seu redor, espalhe bondade e ela retornará.</item>
+        <item>Grandes oportunidades batem à sua porta, esteja atento aos detalhes.</item>
+        <item>Seu esforço será recompensado de forma inesperada muito em breve.</item>
+    </string-array>
+</resources>

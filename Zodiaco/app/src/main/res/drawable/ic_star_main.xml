@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Brilho Externo -->
+    <path
+        android:fillColor="#33FFD700"
+        android:pathData="M50,0 L58,42 L100,50 L58,58 L50,100 L42,58 L0,50 L42,42 Z" />
+    <!-- Raios Secundários -->
+    <path
+        android:fillColor="#66FFD700"
+        android:pathData="M50,15 L55,45 L85,50 L55,55 L50,85 L45,55 L15,50 L45,45 Z" />
+    <!-- Corpo Principal -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M50,25 L53,47 L75,50 L53,53 L50,75 L47,53 L25,50 L47,47 Z" />
+    <!-- Ponto de Luz Central -->
+    <path
+        android:fillColor="#FFF1A8"
+        android:pathData="M50,40 L52,48 L60,50 L52,52 L50,60 L48,52 L40,50 L48,48 Z" />
+</vector>
